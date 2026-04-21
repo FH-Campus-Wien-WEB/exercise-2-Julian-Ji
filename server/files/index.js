@@ -29,7 +29,7 @@ window.onload = function () {
         buttonElement.onclick = function() {
           location.href = 'edit.html?imdbID=' + movie.imdbID
         }
-        movieArticle.appendChild(editBtn)
+        movieArticle.appendChild(buttonElement)
         bodyElement.appendChild(movieArticle)
       }
 
