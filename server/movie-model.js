@@ -11,7 +11,7 @@ const movies = {
         Writers: ["Drew Goddard", "Andy Weir"],
         Actors: ["Matt Damon", "Jessica Chastain", "Kristen Wiig"],
         Plot: "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
-        Poster: "https://m.media-amazon.com/images/M/MV5BMTc2MTg0OTI2N15BMl5BanBnXkFtZTgwNjIyMjE4NjE@._V1_SX300.jpg",
+        Poster: "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_QL75_UY148_CR0,0,100,148_.jpg",
         Metascore: 80,
         imdbRating: 8.0
     },
@@ -25,7 +25,7 @@ const movies = {
         Writers: ["Damien Chazelle"],
         Actors: ["Miles Teller", "J.K. Simmons", "Melissa Benoist"],
         Plot: "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
-        Poster: "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YzA4LTkwYTMtNjU0Y2I0ZGQ5NzEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+        Poster: "https://m.media-amazon.com/images/M/MV5BMDFjOWFkYzktYzhhMC00NmYyLTkwY2EtYjViMDhmNzg0OGFkXkEyXkFqcGc@._V1_QL75_UX100_CR0,0,100,148_.jpg",
         Metascore: 89,
         imdbRating: 8.5
     },
@@ -39,7 +39,7 @@ const movies = {
         Writers: ["George Lucas"],
         Actors: ["Mark Hamill", "Harrison Ford", "Carrie Fisher"],
         Plot: "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station.",
-        Poster: "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLWE1OTktZDA4MWUwOTY1N2VjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+        Poster: "https://m.media-amazon.com/images/M/MV5BOGUwMDk0Y2MtNjBlNi00NmRiLTk2MWYtMGMyMDlhYmI4ZDBjXkEyXkFqcGc@._V1_QL75_UX100_CR0,3,100,148_.jpg",
         Metascore: 90,
         imdbRating: 8.6
     }
